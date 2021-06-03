@@ -1,0 +1,39 @@
+Feature: App stability
+Representative words: start,middle,annoying,stop,close,randomly,force,popping,second,opening,stopping,minute,pop,closing,crash,suddenly,sometimes,freeze,slow,kept,open,often,constantly,end,frustrating,closed,reopen,midway,pausing,sec,starting,min,playing,shuts,advertisement,loading,exit,push,whenever,uninstalled,skipping,happens,resume,random,paused,ad,finish,restarts,glitch,advert
+Sample review: Bugged wont let you open music player closes itself
+
+Feature: Music library
+Representative words: anything,popular,humming,nothing,stuff,sing,identify,recognize,singing,tune,hum,trying,heard,find,remember,obscure,wrong,know,actually,searched,suck,figure,word,downloader,crap,horrible,sang,hear,wanna,hummed,recognise,radio,soundhound,head,hound,even,something,match,believe,result,pick,knew,finding,downloading,else,trash,title,never,looked,terrible
+Sample review: App only shows your list and option to search youtube
+
+Feature: Download music
+Representative words: stored,mp3,scan,medium,file,format,wma,storage,external,directly,internal,card,unmounted,manager,converter,memory,share,microsd,flac,sdcard,folder,m4a,google,sd,store,mp4,amazon,goggle,smart,drive,maestro,cloud,explorer,endlessly,browse,transfer,library,whatsapp,scanning,transferring,restrict,rescan,downloaded,differentiate,unable,allow,movable,onto,supported,detect
+Sample review: Won’t let me listen to music I’ve downloaded
+
+Feature: Complain
+Representative words: preferably,displayed,appeared,odd,related,displaying,flaw,scored,unmatched,module,relative,ticked,editor,property,present,edited,metadata,scrobble,covering,explained,incorrect,bio,spinning,grammar,understanding,compilation,remain,composer,listed,bunch,wherein,redownloading,minor,hella,matching,cropped,embedded,responded,darn,navbar,tagging,argument,nirvana,faced,vibrate,fetch,replaygain,picky,curious,ellipsis
+Sample review: Needs instructions i have no idea how to get music on it
+
+Feature: User Interface
+Representative words: version,category,add,tile,toolbar,layout,feature,option,item,section,album,label,folder,graph,menu,ui,list,icon,tab,thumbnail,update,appearance,gui,format,header,homepage,topic,scroll,added,slider,design,entry,swipe,sliding,select,grid,widget,modified,interface,tag,listing,toggle,gesture,seekbar,style,view,addition,theme,selection,placement
+Sample review: Easy to navigate but white colors on notification bar barely visible
+
+Feature: Search
+Representative words: search,screen,bar,lockscreen,change,button,widget,find,lock,forward,swipe,icon,menu,locked,switch,pause,turn,bottom,previous,changing,back,stay,notification,toolbar,text,exit,rewind,panel,seek,go,color,moving,arrow,touch,colour,next,blank,status,drawer,skip,unlock,control,bring,page,home,navigation,portrait,background,forth,inverse
+Sample review: It won’t let me search
+
+Feature: Premium version
+Representative words: buy,trial,reply,developer,thanks,trail,u,install,giving,thank,request,comming,guy,plz,refund,soon,help,buying,pay,expired,asap,solution,pls,hope,greatness,release,free,remove,rate,five,purchase,give,full,possible,solve,wmp,playstore,review,premium,team,please,tell,version,dev,justify,ask,email,given,website,asking
+Sample review: Pro version still needs an ad free version
+
+Feature: Playlist
+Representative words: renaming,order,track,genre,info,album,artwork,artist,edit,tag,list,playlist,library,sort,editing,image,song,select,queue,cover,folder,title,shuffle,number,information,picture,instead,meta,view,current,correct,scroll,entire,name,etc,display,individual,sorting,multiple,option,choose,scrolling,endlessly,specific,detail,alphabetical,bio,art,jump,left
+Sample review: I love the way how playlist work keep it up
+
+Feature: Offline feature
+Representative words: internet,wifi,connection,wi,offline,data,fi,network,without,connected,connect,check,service,online,verify,flight,airplane,license,trip,ur,server,run,licence,cause,validate,traveling,requires,4g,plane,verification,travelling,listen,access,save,conection,need,mobile,spotify,fail,ask,checking,unless,verified,validation,mean,us,link,streaming,locally,youll
+Sample review: Wish i had wifi i really would give it five stars if i did not need wifi
+
+Feature: Sound quality
+Representative words: bass,speaker,headphone,sound,high,stereo,ear,output,equalizer,volume,earphone,low,loud,boost,eq,level,booster,treble,quieter,equaliser,bluetooth,system,difference,headset,obi,adjust,base,hi,pioneer,quality,re,car,effect,louder,frequency,lower,maxed,presets,pair,beat,bud,sounding,clear,sony,sr,built,reproduction,power,distortion,amplifier
+Sample review: Works just fine needs more sound output

@@ -1,0 +1,39 @@
+Feature: Detailed weather info
+Representative words: accurate,reliable,comprehensive,detailed,informative,solid,intuitive,downside,precise,thorough,pleased,consistent,straightforward,offer,decent,efficient,versatile,provides,attractive,customizable,appealing,functional,reasonably,compared,clean,pleasing,visually,excellent,unlike,useful,dependable,although,aesthetically,generally,impressive,presentation,neat,simple,variety,easiest,complete,relevant,satisfied,accuracy,found,plenty,overall,unique,accessible,concise
+Sample review: Very nice app no problems love the minute by minute forecast
+
+Feature: Daily forecast feature
+Representative words: dress,clothes,prepared,prepare,appropriately,pack,kid,door,knowing,clothing,wear,walk,accordingly,outfit,schedule,school,errand,commute,vacation,decide,weekend,trip,advance,know,bike,bus,camping,determine,appointment,outing,destination,fishing,check,anytime,expect,guide,dressed,ride,recess,everyday,plan,daughter,accessory,wise,planned,trucker,b4,judge,preparing,apparel
+Sample review: Helps me plan my days ahead. Love it!
+
+Feature: Accurate forecast
+Representative words: percent,rained,snowing,vice,opposite,sunny,reality,accuracy,overcast,shower,cloudy,sunshine,instance,joke,predicts,say,partly,6pm,pouring,torrential,suppose,chance,downpour,wrong,rain,foggy,tonight,predicted,raining,example,snowed,1pm,colder,supposed,standing,said,storming,3pm,friday,inaccurate,degree,warmer,lol,right,actually,predicting,dead,correct,tomorrow,30pm
+Sample review: Accurate on most days spot on
+
+Feature: App stability
+Representative words: syncing,updating,frozen,continues,pixel,marshmallow,oreo,crash,update,oneplus,xl,startup,caused,shuts,droid,reload,s9,restart,worked,moto,freeze,nougat,lagging,reboot,pie,note,refreshing,tmobile,nexus,restarting,lg,2xl,freezing,froze,restarted,reinstalled,reopening,responding,unstable,reloaded,buggy,xiaomi,glitch,recently,galaxy,repeatedly,reinstalling,xperia,shutting,s8
+Sample review: This crappy app won’t let you update or do things correctly
+
+Feature: User interaction
+Representative words: toolbar,header,tile,slider,icon,graph,drawer,sliding,banner,thumbnail,menu,horizontal,animation,visibility,bubble,bottom,column,symbol,toggle,grid,placement,homepage,gradient,outline,transparency,vertical,translucent,visualization,layout,option,gesture,ui,widget,pane,opacity,dragging,lockscreen,zooming,section,underneath,sidebar,panel,beneath,label,floating,appearance,display,view,add,marker
+Sample review: Less options of locations in widgets previous version was best
+
+Feature: In-app ads
+Representative words: scam,greed,paying,advertisement,b,commercial,advertising,subscription,political,ad,survey,clickbait,dollar,buck,throat,fee,charging,payment,trial,popups,buy,charge,sick,purchase,subscribe,coin,malware,buying,trump,pay,million,forced,bait,advert,anti,accidentally,price,cost,spam,credit,liberal,ridiculous,greedy,virus,adware,browser,bombarded,agenda,politics,popup 
+Sample review: Inappropriate advertising adds
+
+Feature: Device compatibility
+Representative words: tablet,phone,ipad,app,widget,android,apps,chromebook,launcher,device,tried,samsung,mobile,motorola,oppo,s5,installed,still,note9,preinstalled,z3,laptop,zte,stock,work,s3,browser,factory,switched,preloaded,uninstalled,nova,used,sony,one,homescreen,alcatel,s8,found,s10,lg,galaxy,andriod,6t,huawei,iphone,xperia,accuweather,finally,note5
+Sample review: This app goes on every device that I have
+
+Feature: UI appearance
+Representative words: transparency,font,size,color,colour,scheme,style,dark,custom,skin,separate,classic,larger,customise,darker,3d,1x4,gray,adjustable,5x2,contrast,opacity,bold,wallpaper,boring,increase,theme,letter,transparent,customizing,1x1,icon,4x2,white,smaller,realistic,translucent,colored,bland,4x1,2x4,logo,unreadable,blinding,wedget,grey,tile,vision,table,1x2
+Sample review: New Color scheme makes the information hard to see/read
+
+Feature: Weather alert services
+Representative words: flood,warning,warns,flooding,dangerous,flash,alerted,notify,warned,alert,sever,emergency,audible,outbreak,threat,advisory,danger,notified,issued,severe,siren,tornado,notice,alerting,warn,notifies,approaching,hail,impending,hazard,notifying,imminent,sends,fire,potential,woken,hear,inclement,special,scared,sounding,extreme,abduction,alley,receiving,amber,seek,urgent,frost,thunder
+Sample review: Awesome it gives warnings 10 min earlier than the tv and radio do
+
+Feature: Location-aware services
+Representative words: location,enter,saved,entered,zip,code,gps,city,deletes,list,entering,accept,address,delete,stored,permanently,input,locate,profile,visited,enabled,place,refuse,entry,save,follow,detect,enable,typing,unable,permission,allow,recognize,select,disabled,town,selected,cite,enabling,search,instruction,visiting,granted,typed,setting,manually,turned,despite,allowing,requiring
+Sample review: Great app lots of info for multiple locations

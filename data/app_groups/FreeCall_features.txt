@@ -1,0 +1,39 @@
+Feature: Call quality
+Representative words: cal,outgoing,audible,echo,voice,clarity,distorted,audio,call,choppy,intermittent,vice,vedio,distortion,caller,sound,static,videocall,stabilize,versa,disconnect,speaking,hearing,noise,attend,mic,microphone,echoing,receiver,vdo,connectivity,vise,clearity,hears,side,volume,reconnecting,2g,reconnection,disturbance,low,calling,answering,patchy,earphone,israel,muted,loud,ringing,interrupted
+Sample review: I can t hear the other side
+
+Feature: International calls
+Representative words: wife,korea,japan,abroad,daughter,traveling,overseas,australia,mother,travel,town,living,brother,husband,south,father,sea,son,infant,internationally,elderly,sister,america,europe,relative,communicate,africa,colleague,mom,canada,parent,kid,school,outside,girlfriend,mum,lifesaver,dad,china,traveled,mexico,stationed,germany,grandkids,uk,cellphone,state,allows,travelling,deployed
+Sample review: Very useful instant chat and video call with anyone internationally
+
+Feature: Privacy
+Representative words: broadcast,remove,unwanted,hide,blocking,enable,request,add,content,option,block,selected,include,channel,removed,added,merajalela,category,individual,list,shared,directly,admin,section,highlight,story,unblock,particular,privacy,disable,relay,capture,select,activity,official,recommendation,blocked,explore,contact,secondly,direct,suggestion,provide,unfriend,joined,adding,ability,avoid,removing,specific
+Sample review: Privacy issue no option to hide last seen
+
+Feature: Bug reports
+Representative words: randomly,disappears,exit,shuts,constantly,pop,middle,shut,clicking,restarts,turn,annoying,freeze,restart,unless,hit,hang,accidentally,literally,ending,decides,everytime,tapping,whenever,turned,appear,disappear,close,popping,popups,scrolling,sends,repeatedly,suddenly,nowhere,turning,click,touching,interrupt,reopen,clicked,closed,frustrating,dismiss,happens,frozen,reenter,annoyed,jump,opened
+Sample review: Keeps on crashing keeps on crashing while calling
+
+Feature: Other
+Representative words: cool,little,okay,fun,fast,apart,nice,besides,alright,funny,awesome,love,interesting,think,bit,faster,overall,amazing,good,tho,cute,like,maybe,bigger,personally,beautiful,enjoy,chatting,better,rest,definitely,sometimes,chating,graphic,writing,great,glitch,pretty,catch,round,typing,liked,lol,course,although,ok,enjoying,usually,quick,quickly
+Sample review: Useful app i really like this app but sometime very annoying
+
+Feature: User experience
+Representative words: usability,becoming,ux,designed,bloated,poorly,dreadful,functional,unintuitive,destroyed,nightmare,crappy,horrendous,clunky,general,software,redesign,usable,overhaul,entirely,beyond,cumbersome,outdated,intrusive,appalling,atrocious,gui,product,term,reliability,competitor,increasingly,failure,utter,modern,acceptable,unbelievable,utterly,unreliable,aesthetic,shame,mess,functionality,complex,intuitive,lousy,destroy,alternative,implementation,simplicity
+Sample review: It s easy to use than anything else simplicity is whats admirable
+
+Feature: User interface
+Representative words: toolbar,section,feature,option,tile,header,toggle,column,drawer,icon,sidebar,layout,add,homepage,category,menu,label,avatar,slider,hide,ability,bubble,gesture,lockscreen,folder,list,thumbnail,optional,style,pane,homescreen,headline,ui,marker,addition,checkbox,emoticon,sliding,horizontal,format,highlight,tag,update,signature,album,smiley,emoji,grid,gradient,design
+Sample review: Not happy with the new UI. Some may like it and it’s fine for default
+
+Feature: Version update
+Representative words: till,yesterday,week,morning,updated,happening,april,month,responded,happened,redownloaded,june,twice,updating,update,march,july,response,emailed,havent,couple,reinstalled,day,date,notice,installed,wrote,reported,hr,finally,ive,nov,sorted,stopped,replied,upgraded,since,recently,received,17th,august,later,october,started,persists,six,january,hour,resolved,opened
+Sample review: Always need update but not improvement
+
+Feature: Account authentication
+Representative words: loging,login,signup,signin,account,rply,sir,slove,solve,rectify,numbr,problm,num,needful,admin,registered,problem,doesnot,uae,hlp,imo,loging,kindly,pakistan,resolve,contect,mob,massage,occured,varify,imp,iam,showing,error,prblm,nmbr,chek,madam,eventhough,solv,aap,responce,frnd,downloding,mailed,unblock,nt,solution
+Sample review: It spammed my contact list with a link from my account dangerous app
+
+Feature: Credit services
+Representative words: token,r,chip,ref,trial,ticket,rupee,diamond,dollar,earned,lottery,redeem,airtime,coin,pyapal,credit,income,recharge,onead,pyatm,survey,cheater,cent,apos,referral,purchase,money,giftcards,cradit,completing,spin,collection,vbtar,ruzaap,reward,lnstaii,amount,recharges,refferal,willing,paytm,mb,weone,liar,fraud,cash,nstaii,aaps,buck,refer
+Sample review: It is really useful especially when u have no credit”

@@ -1,0 +1,39 @@
+Feature: Record keeping
+Representative words: managing,tracking,maintaining,robust,nevertheless,flexibility,capability,tool,efficiency,comprehensive,consistent,organizational,analysis,flexible,monitoring,component,versatile,practical,effective,synchronization,seamless,organizing,beneficial,addition,utility,versatility,bookmarking,importantly,collaboration,efficient,excellent,provides,tailoring,utilize,thorough,adequate,tagging,aspect,varied,maintain,highlighting,effectively,visuals,overall,particularly,precise,usefulness,reliability,enhance,effectiveness
+Sample review: Tracking is so easy with frequent foods favorites and build a recipe
+
+Feature: Online reliability
+Representative words: problem,server,reinstall,working,error,uninstall,internet,message,issue,saying,fix,uninstalled,atleast,connection,reinstalled,overlay,fixed,crash,login,constantly,sign,install,rebooted,briefly,phone,frustrating,uninstalling,logged,installed,stop,open,say,contact,today,refresh,telling,properly,stopped,pending,log,wifi,crashing,trouble,logging,downloaded,password,email,load,bug,soon
+Sample review: Network error freezes all the time
+
+Feature: User experience
+Representative words: thumbnail,category,item,tile,menu,section,label,search,homepage,title,image,option,slider,ingredient,icon,filter,header,homescreen,keyword,keywords,drawer,layout,folder,url,select,hyperlink,selection,alphabet,keypad,scroll,menue,widget,page,content,symbol,grid,avatar,album,food,example,shortlist,sidebar,animation,list,ui,restaurant,box,preview,listing,webpage
+Sample review: Easy to search and find foods
+
+Feature: App practicality
+Representative words: almost,every,convenient,everyday,bite,throughout,excercise,love,time,single,ahead,journal,night,plan,planning,handy,easy,eaten,simplifies,whilst,shop,schedule,mental,accountable,eat,figure,quickly,penny,quick,calculating,keeping,great,stay,convenience,use,held,basis,fantastic,forget,craving,ease,brilliant,perfection,smart,helpful,consuming,super,track,fast,everywhere
+Sample review: My Guardian So handy to keep me on track wherever I am
+
+Feature: Bar code scanner
+Representative words: store,product,scan,scanning,coupon,grocery,shopping,barcode,upc,barcodes,scanner,code,function,focus,list,sale,item,determining,bar,merely,prime,reader,amazon,qr,calculator,restaurant,search,accepts,generating,camera,scanned,discount,generate,coder,point,blurry,main,scannable,shop,cart,brand,lighting,screen,dig,right,phone,supermarket,rarely,noted,check
+Sample review: Needs to be easier to open the bar code scanner
+
+Feature: Recipe diversity
+Representative words: recipe,different,ingredient,many,option,food,favorite,type,value,dish,serving,find,looking,idea,choose,filter,variety,preference,portion,example,nutritional,dietary,meal,save,listed,place,etc,size,amount,category,one,also,ability,fuzz,specific,restaurant,allergy,tablespoon,found,item,thing,breakfast,vegan,allover,add,menu,search,database,begs,gummy
+Sample review: Endless selection of recipes you can think of and more
+
+Feature: Version update
+Representative words: old,version,improved,improvement,used,older,update,loved,last,previous,updated,new,latest,recent,little,since,seasonal,year,liked,upgrade,slowed,better,pretty,newest,much,quicker,design,ui,layout,interface,io,ago,gotten,navigate,using,intuitive,made,mobile,still,overall,terrible,le,newer,bug,prefer,faster,although,iphone,earlier,greatly
+Sample review: After the update it’s even worse
+
+Feature: Fitness tracker compatibility 
+Representative words: fitbit,fit,sync,fitness,tracker,activity,syncs,health,gear,samsung,connect,step,pal,synced,watch,syncing,exercise,link,progress,garmin,workout,device,community,bit,misfit,connects,compatible,social,s2,carb,medium,integration,fit2,daily,intake,carbs,transferred,however,water,jawbone,fitpoints,google,stats,user,wear,macro,atkins,linked,share,support
+Sample review: I love that it sync with my Fitbit
+
+Feature: Diet plan
+Representative words: trend,life,helped,goal,eating,journey,program,healthy,recommend,appetite,thank,success,lifestyle,smoothie,diet,helping,fresh,tool,healthier,courteous,lose,feel,changer,weight,brake,help,family,downgrading,highly,accountable,losing,acomplished,loss,cooking,loooooove,flavorful,grad,excersise,snag,pound,partition,ww,lost,stay,lb,wwworks,made,theyve,lastpass,worthwhile
+Sample review: Love this app so far it has been instrumental in my weight loss journey
+
+Feature: Authentication
+Representative words: sign,log,account,login,email,acount,signin,registered,register,loging,verify,logged,contact,gmail,number,verified,signed,logon,password,signing,saying,username,acct,reactivate,logging,mail,activate,conect,registering,say,verification,registration,deactivated,already,loggin,proceed,authorize,stating,retrieve,cc,pw,unauthorized,access,verifying,credential,id,blocked,deactivate,validate,connect
+Sample review: Won't let me log in and will not let me create another account

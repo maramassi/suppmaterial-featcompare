@@ -1,0 +1,39 @@
+Feature:Scam identification
+Representative words: telemarketing,block,scammer,scam,robo,spam,cold,telemarketer,harassing,identifies,robot,telemarketers,nuisance,anonymous,blocking,spammer,prank,spoof,marketing,unwanted,disturbed,blocked,unsolicited,pesky,answering,ppi,known,ignore,unidentified,insurance,sale,reject,identified,span,blocker,solicitor,harassment,bothered,screening,legit,promotional,caught,ex,irs,centre,stalker,collector,tele,identifying,informs
+Sample review: Its useful to avoid spam calls and to identify the fake numbers
+
+Feature: Location connectivity
+Representative words: address,actual,city,attached,input,medium,state,mumbai,accurately,2g,network,field,detail,operator,name,wi,exact,internet,document,incorrect,landline,mostly,located,depending,online,real,net,connection,ip,proper,gps,maximum,stored,registered,connectivity,particular,signal,pc,accurate,correct,map,3g,precise,accuracy,web,searching,receiver,4g,coverage,area
+Sample review: It does not give location
+
+Feature: App stability
+Representative words: opening,closed,closing,continuously,reboot,restart,hang,opened,blinking,crash,hanging,irritating,popup,appearing,popping,shut,starting,start,slow,restarting,open,everytime,frequently,unlock,causing,turned,popups,crashed,crashing,flashing,close,blink,disappear,disappears,freeze,appears,continous,turning,disabled,uninstalling,displaying,restarts,repeatedly,freezing,disabling,overlay,optimizing,happening,becomes,clearing
+Sample review: Very useful not always 100 updated or synced to my phone
+
+Feature: Customization
+Representative words: reliable,messaging,solid,texting,compared,fluid,functional,simplicity,customizability,honestly,personally,beat,smooth,replacement,customizable,intuitive,alternative,prefer,sleek,simplest,versatile,far,aesthetic,flawless,customisable,liking,design,beautiful,delivers,neat,simple,flexible,interface,decent,clean,probably,stable,dependable,flexibility,seamless,msging,layout,powerful,slick,customization,clunky,functionality,txting,fastest,messenging
+Sample review: Far better than i expected full of customizations
+
+Feature: User experience
+Representative words: inbox,section,content,convos,deletion,sender,blacklist,folder,conversation,avatar,undo,thread,count,counter,massage,highlight,preview,highlighted,separate,convo,mark,inside,message,timestamps,pin,panel,blacklisted,column,flash,provision,duration,add,symbol,select,reminder,slide,selected,bold,hyperlink,icon,toast,item,option,homescreen,batch,entry,archive,unread,tick,conversion
+Sample review: Much easier to find the people in our contact list
+
+Feature: In-app ads
+Representative words: advertiser,ransom,interruption,kick,scumbag,sneaky,tactic,fishing,inadvertently,hole,af,sh,netflix,demanding,piece,danger,evil,loser,gambling,nonsense,costing,pool,illegal,brain,interrupted,smell,generate,dy,crime,pandora,youre,employed,overload,shady,profit,attack,peep,painful,unneeded,disrupt,distraction,vulnerable,fortune,unistalling,stared,foreground,gentle,fkin,booster,disturbance
+Sample review: I do not want your notifications of promoting your stuff”
+
+Feature: Account authentication
+Representative words: retry,failed,24hr,error,nt,idk,verification,register,wht,num,iam,uae,entered,connecting,saudi,invalid,fone,bt,wat,hav,sign,registering,login,exceeded,valid,code,try,arabia,couldnt,whats,24h,agin,fail,saying,dis,wont,activate,enter,verify,tht,connect,canot,vpn,verifying,registration,say,resend,wtf,24hrs,activation
+Sample review: Not working unable to connect
+
+Feature: UI appearance
+Representative words: style,pink,wallpaper,kid,fun,emoji,heart,cute,bubble,ugly,skin,wanna,holiday,choose,smiley,orange,white,put,font,plain,emojis,cuz,background,color,purple,lol,bright,colorful,yellow,front,black,round,colour,cool,want,anytime,face,personalized,love,changer,shape,square,choice,boring,plug,wall,blue,game,touch,accent
+Sample review: More skin and background options as well as font options
+
+Feature: Security
+Representative words: hacking,indian,dangerous,trust,created,cheater,steal,stealing,hack,public,collect,hacked,thief,spy,publicly,stolen,government,personal,spying,careful,upi,breach,phonebook,secretly,selling,misusing,policy,china,trusted,spyware,cheating,army,uploaded,hacker,privacy,cheat,govt,theft,stole,site,unsafe,news,theif,safety,maintain,leak,secure,merging,salary,banking
+Sample review: People are misusing it to create a fraud saving fraud number
+
+Feature: Premium version
+Representative words: subscribe,expensive,yearly,lifetime,purchase,purchasing,membership,annual,svip,trail,price,pricing,renew,subscribed,reasonable,package,gold,modest,payed,buy,buying,fee,subscription,annually,justify,monthly,cost,trial,priced,silver,cheaper,premium,cheap,paying,removal,subscribing,expired,steep,rip,unlimited,buck,plan,opted,purchased,free,cap,pricey,cancelled,willing,license
+Sample review: After i upgraded to premium the call record function disappeared

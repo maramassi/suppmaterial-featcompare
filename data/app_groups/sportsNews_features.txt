@@ -1,0 +1,39 @@
+Feature: Video streaming
+Representative words: break,cut,forward,skip,watching,behind,ahead,missed,delay,miss,sec,second,buffer,actual,minute,commercial,replay,super,starting,jumpy,fast,min,rewind,action,pause,reel,sit,jump,interruption,strangely,reconnect,beginning,middle,resume,end,except,lag,entire,clip,freeze,ten,lengthy,interrupted,drop,buffering,watched,short,hd,disconnect,quarter
+Sample review: Love that i can watch the hockey feeds but they are so far behind live
+
+Feature: Playoff coverage
+Representative words: season,ncaa,playoff,basketball,football,hockey,nhl,cup,college,championship,baseball,tournament,final,nba,sunday,v,series,uswnt,soccer,postseason,mlb,woman,stanley,ivy,nfl,men,world,night,state,golf,dame,bball,fbs,euro,rugby,notre,english,thursday,national,watched,match,golfer,la,game,saturday,monday,tennis,missing,possession,spanish
+Sample review: At least it works most of the time for the nhl playoffs this season
+
+Feature: Subscription service
+Representative words: service,paying,company,cable,cord,subscription,package,pay,subscriber,free,comcast,paid,satellite,channel,charge,cost,price,cbssn,nbc,fubo,dollar,subscribe,money,network,air,premium,requires,monthly,sling,customer,ridiculous,buy,dish,gold,hulu,offer,joke,antenna,fooled,extra,unless,programming,television,trial,charging,fee,provider,online,fubotv,directv
+Sample review: Excellent way to get access to shows when paying high provider prices
+
+Feature: Chromecast
+Representative words: android,samsung,fire,galaxy,chrome,roku,s7,s8,device,s6,cast,edge,ipad,casting,note,work,nexus,pixel,chromecast,s9,xbox,laptop,hdmi,amazon,smart,connected,lg,s5,lightweight,tablet,google,perfectly,phone,apple,fi,6p,vizio,mobile,support,g3,wi,fine,wifi,4g,iphone,using,issue,pc,s4,connection
+Sample review: Embarrassed that i downloaded this no chromecast having app
+
+Feature: Notification
+Representative words: alert,useful,information,customize,notification,informative,push,set,breaking,follow,daily,notified,uncheck,reminder,info,easy,source,interested,news,convenient,customizable,preference,spoiler,provides,team,favourite,fact,escape,personalize,specific,unwanted,easily,accurate,depending,highly,detailed,sport,stuff,interesting,detail,receive,track,love,following,notifying,sending,instant,turned,enjoy,quick
+Sample review: Stupid thing can t disable notifications wow this is bad
+
+Feature: Games playback
+Representative words: constant,audio,video,playback,middle,stop,buffering,random,freezing,lagging,timeouts,playing,poor,strangely,skip,frequently,randomly,consistently,almost,lag,unwatchable,feed,run,cutting,skipping,stopping,amount,clear,pause,drop,repeating,low,moment,sound,advertisement,loses,stutter,choppy,constantly,loading,clasico,break,mid,quality,pop,shuts,picture,connection,obnoxious,laggy
+Sample review: Had great playback but now stutters and skips during live playback
+
+Feature: Bug reports
+Representative words: week,tried,later,reinstall,day,happened,uninstall,reinstalled,uninstalled,several,immediately,ago,crashed,started,first,two,deleted,installed,couple,stopped,reinstalling,past,today,three,uninstalling,twice,went,quit,month,hour,next,try,soon,recently,year,last,since,attempt,avail,oops,opened,working,within,fixed,failed,sent,till,install,worked,message
+Sample review: Won’t load i submitted my carrier and still won’t load waste of time
+
+Feature: Blackout broadcasting
+Representative words: tell,watch,blacked,wont,say,stupid,let,im,sign,cant,dont,download,log,restriction,access,wrong,b,signed,saying,blackout,else,logged,computer,bracket,whats,anymore,worthless,location,doesnt,allow,account,unless,view,telling,authorization,anything,connect,purpose,area,enter,direct,know,zip,website,authenticate,fios,password,local,check,select
+Sample review: Too many blackouts
+
+Feature: User interaction
+Representative words: bar,screen,button,page,bottom,menu,scroll,top,scrolling,icon,white,sideways,text,click,instead,black,tap,title,left,glass,logo,banner,hit,twitter,blank,swipe,main,corner,estate,display,press,size,story,article,link,headline,default,back,portrait,full,scrub,switch,sized,mode,landscape,taking,section,feed,slide,pop
+Sample review: Headlines don’t take you to the story
+
+Feature: Version update
+Representative words: made,layout,ruined,ui,new,interface,design,format,used,confusing,look,absolutely,version,old,improved,navigate,mess,awful,simple,older,loved,probably,designed,yahoo,update,huge,operate,navigation,unusable,experience,intuitive,compared,friendly,worse,liked,newest,redesign,previous,terrible,changed,latest,simplistic,functionality,unnecessarily,become,shame,clunky,ruin,slowing,cluttered
+Sample review: Become worst after updating

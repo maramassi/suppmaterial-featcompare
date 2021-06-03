@@ -1,0 +1,39 @@
+Feature: In-app ads
+Representative words: waste,thief,shopping,hate,ridiculous,obnoxious,wont,interruption,timed,annoy,disrespectful,distraction,didnt,interrupting,shut,buffer,hey,interrupted,bugging,flickering,disappointing,pliz,reopen,locked,shouldnt,suppose,concentrate,popping,silence,flashing, donate,respond,paying,coz,irritating,unexpectedly,timeout,there,okay,thx,gotta,anoying,disturbing,bother,blinking,continously,anyway,asap,closed,force
+Sample review: It is a great app but the ads are unnecessary they take up my entire screen
+
+Feature: Educative
+Representative words: learning,child,learned,level,kid,age,young,helped,fun,become,journey,interested,growing,learn,interesting,adult,walk,helping,perspective,definitely,brought,interactive,lesson,positive,educational,habit,goal,apply,grow,watching,spiritually,teach,relate,grown,attention,story,relationship,marriage,yr,brings,husband,strengthened,person,faith,planting,engaging,talk,short,enjoys,christian
+Sample review: Handy teaches u a lot of new things 
+
+Feature: Highlight and bookmark
+Representative words: verse,passage,column,section,wording,alphabet,chapter,highlight,option,title,headline,underlining,paragraph,symbol,caption,phrase,letter,hyperlink,subtitle,example,word,comma,punctuation,context,header,eg,keywords,item,article,character,entry,sentence,story,underline,select,category,emoji,tag,hebrew,lastly,preferably,label,dictionary,menu,sequence,scroll,arabic,translation,also,scripture
+Sample review: Handy teaches u a lot of new things 
+
+Feature: Guided prayer
+Representative words: lord,world,spread,pray,father,creator,god,amen,may,blessed,living,truth,jesus,gospel,glory,christ,u,gift,heaven,heart,seek,true,everyone,grace,praise,reach,believe,relationship,soul,peace,kingdom,knowledge,almighty,shall,wisdom,heavenly,blessing,holy,spreading,grow,brother,earth,spirit,joy,people,created,knowing,believer,sin,technology
+Sample review: Perfect one cannot ask for anything better the word of god really available
+
+Feature: Easy narration
+Representative words: immediate,simplified,tpt,oldest,addressing,thrilled,advanced,applicable,abundant,flexible,magnificent,portability,keywords,pleasure,myriad,suggests,match,instant,thr,skill,accessable,emotional,congrats,clarify,precise,samoan,legible,bibleis,concept,worshipper,adequate,term,lt,avid,rely,awaiting,correlate,constructed,burst,presentation,biased,spite,emotion,phase,whichever,permanent,stroke,carried,pending,enabled
+Sample review: There are no sub headings on electronic bibles compared to hard copies
+
+Feature: Audio feature
+Representative words: driving,night,car,asleep,sleep,fall,bed,listening,listen,drive,tired,timer,busy,sit,multitasking,ready,stay,commute,lunch,set,break,schedule,along,play,hear,bus,playing,audio,minute,morning,excuse,convenient,work,sometimes,home,pause,driver,loud,day,aloud,spend,often,down,especially,move,wherever,anytime,wake,house,waiting
+Sample review: I like the audio reading while im doing other things
+
+Feature: Bible versions
+Representative words: kjv,niv,drama,king,english,james,voice,esv,spanish,dramatized,nkjv,reader,language,american,version,narrator,standard,nlt,sound,dramatic,amplified,hebrew,story,testament,accent,character,audio,efik,translate,music,telugu,afrikaans,clear,greek,non,translation,prefer,included,catholic,video,original,edition,clearly,effect,loud,aloud,audible,robot,impairment,portuguese
+Sample review: The bible has many different versions i haden’t even heard of
+
+Feature: Practicality 
+Representative words: study,plus,devotional,provides,ton,finger,tip,resource,topic,variety,translation,wide,handy,subject,convenient,pastor,relevant,personal,devotion,allows,many,fingertip,fit,huge,useful,quick,convenience,sermon,sunday,ease,physical,offer,numerous,various,contains,class,helpful,regular,material,plan,pocket,research,hundred,studying,easily,course,source,meet,lesson,tool
+Sample review: Easily accessible switches between translations quickly and easily
+
+Feature: App stability
+Representative words: issue,error,fixed,stopped,week,announcement,bug,month,crash,widget,streak,updated,crashing,reinstall,try,working,recently,problem,glitch,update,recent,gone,notification,reinstalled,fix,review,lately,updating,seems,push,opening,uninstalled,email,uninstall,reset,last,started,showing,date,soon,support,latest,longer,kept,emailed,tried,loved,installed,happened,sending
+Sample review: After update app is stuck on start screen after the most recent update”
+
+Feature: Sharing
+Representative words: create,comment,picture,photo,image,paste,post,folder,save,facebook,fb,underline,friend,bookmark,note,highlighted,link,share,twitter,social,medium,color,colour,write,etc,pic,via,highlight,section,shared,sharing,profile,text,private,individual,allow,highlighter,suggestion,favourite,organizing,together,label,list,copy,future,categorize,highlighting,theme,font,whatsapp
+Sample review: I can’t share any of my daily scriptures to instagram or snapchat please fix
