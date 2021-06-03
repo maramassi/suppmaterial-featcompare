@@ -1,7 +1,4 @@
-# suppmaterial-featcompare
-#
 # FeatCompare: Feature Comparison for Competing Mobile Apps Leveraging User Reviews
-#
 
 REQUIRED PROJECTS
 -----------------
